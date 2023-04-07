@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello There, I'm Hyan Lucas!
+Hello there, I'm Hyan Lucas!
