@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 <p>🤔 I’m looking for help with Machine Learning and Data Science projects, I'm really new in this technology and some advices about then would help.</p>
 <p>🤖 You can find me on kaggle too: <a href="https://www.kaggle.com/hyanlucas">Kaggle</a></p>
 
-<p>I will update all my projects soon. Just wait</p>
