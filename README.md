@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there, I'm Hyan Lucas!
+<h1>Hello there, I'm Hyan Lucas</h1>
+
+<p>I'm a 22-years-old man from Brazil and I'm very interested in biology and technology. I began studying programming in the middle of 2021 and have been studying machine learning and data science since the beginning of 2023. My objective now is to obtain an internship and improve my skills in English and coding, particularly with Python and Java.</p>
+<br>
+<p>🔭 I’m currently now searching for a interenship.</p>
+<p>👯 I’m looking to collaborate on Python/Java projects, just to practice my code skills.</p>
+<p>🤔 I’m looking for help with Machine Learning and Data Science projects, I'm really new in this technology and some advices about then would help.</p>
+<p>📫 How to reach me: <a href="href="mailto:hyanlucas2011@gmail.com?subject=Subject&body=Message"">hyanlucas2011@gmail.com</a> </p>
