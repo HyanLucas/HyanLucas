@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <p>🔭 I’m currently now searching for a interenship.</p>
 <p>👯 I’m looking to collaborate on Python/Java projects, just to practice my code skills.</p>
 <p>🤔 I’m looking for help with Machine Learning and Data Science projects, I'm really new in this technology and some advices about then would help.</p>
-<p>📫 How to reach me: <a href="href="mailto:hyanlucas2011@gmail.com?subject=Subject&body=Message"">hyanlucas2011@gmail.com</a> </p>
+<p>📫 How to reach me: <a href="mailto:hyanlucas2011@gmail.com?subject=Subject&body=Message">Email me</a></p>
