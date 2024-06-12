@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1>Hello there, I'm Hyan Lucas</h1>
 
-<p>I'm a 23-year-old man from Brazil and I'm very interested in biology and technology. I began programming in the middle of 2021 and have been studying machine learning and data science since the beginning of 2023. My objective now is to obtain an internship and improve my skills in English and coding, particularly with Python and Java.</p>
+<p>I'm a 24-year-old man from Brazil and I'm very interested in biology and technology. I began programming in the middle of 2021 and have been studying machine learning and data science since the beginning of 2023. My objective now is to obtain an internship and improve my skills in English and coding, particularly with Python and Java.</p>
 <br>
 <p>🔭 I’m currently searching for an internship.</p>
 <p>🌱 I’m currently learning a lot of things Python, MySQL, Machine Learning, and Data Science.</p>
